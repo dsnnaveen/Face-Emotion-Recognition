@@ -36,6 +36,6 @@ n this repository I have made a front end using streamlit .Streamlit doesn’t p
 
 # Acoknoweldgements
 
-<u Almabetter /u>
+Almabetter
 
 
