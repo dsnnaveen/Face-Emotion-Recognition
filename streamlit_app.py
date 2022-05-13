@@ -133,7 +133,7 @@ def main():
   
 
     st.markdown(html_temp, unsafe_allow_html=True)
-    st.write("This app is created by DSN Naveen Kumat")
+    st.write("This app is created by DSN Naveen Kumar")
     st.write("Model built by transfer learning from mobilenetv2")
     st.write("**Instructions while using the APP**")
     st.write('''
