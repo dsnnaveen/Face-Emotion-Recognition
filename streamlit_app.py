@@ -1,4 +1,3 @@
-
   # Importing required libraries, obviously
 import logging
 import logging.handlers
@@ -134,7 +133,7 @@ def main():
   
 
     st.markdown(html_temp, unsafe_allow_html=True)
-    st.write("This app is created by DSN Naveen Kumar")
+    st.write("This app is created by DSN Naveen Kumat")
     st.write("Model built by transfer learning from mobilenetv2")
     st.write("**Instructions while using the APP**")
     st.write('''
@@ -148,13 +147,9 @@ def main():
                 4. Click on  Stop  to end.
                 
                 5. Still webcam window didnot open, then follow the following step in chrome:
-
                    1) Navigate via address-bar to chrome://flags/#unsafely-treat-insecure-origin-as-secure in Chrome.
-
                    2) Find and enable the Insecure origins treated as secure section.
-
                    3) Add the streamlit web link addresses so to ignore the secure origin policy for. (Include the port number if required.)
-
                    4) Save and restart Chrome and reload the link and enjoy your emotion.''')
     
     face_detect()
@@ -162,4 +157,3 @@ def main():
     
 if __name__ == "__main__":
     main()
-
