@@ -37,8 +37,20 @@ Transfer learning (TL) is a research problem in machine learning (ML) that focus
 In this repository I have made a front end using streamlit .Streamlit doesn’t provide the live capture feature itself, instead uses a third party API. I have used streamlit-webrtc which helped to deal with real-time video streams. Image captured from the webcam is sent to VideoTransformer function to detect the emotion. Then this model was deployed on streamlit sharing
 https://share.streamlit.io/dsnnaveen/face-emotion-recognition/main
 
-# Acoknoweldgements
+<!-- CREDITS -->
+<h2 id="credits"> :scroll: Credits</h2>
 
 Almabetter
+DSN Naveen Kumar | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/naveen-kumar-dsn)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/AlmaBetter-School/)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/almabetter)
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://docs.google.com/document/d/1oqq7SOX-VfSNAwPcCo4rS5dtf5fm57ZNVGBg0nDRIcI/edit?usp=sharing)
+
+
+
 
 
